@@ -1,6 +1,6 @@
-# Apteka
-
-Skład zespołu:
-  -Marcin Roszczyk
-  -Karol Sabisz
-  -Krystian Sikorski
+#Aplikacja mobilna "Apteka"
+#
+#Skład zespołu:
+#  -Marcin Roszczyk
+#  -Karol Sabisz
+#  -Krystian Sikorski
